@@ -10,7 +10,9 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "classnames": "^2.3.2",
     "connectkit": "^1.2.2",
+    "daisyui": "^2.51.5",
     "ethers": "^5.7.0",
     "framer-motion": "^10.11.6",
     "lucide-react": "^0.144.0",
