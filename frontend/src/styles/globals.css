@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.btn {
+  @apply min-h-full h-10 capitalize font-semibold text-base;
+}
